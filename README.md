@@ -2,10 +2,8 @@
 # Catalog of Work
 Below is my work from Evolving Solutions.
 ## Responses to Readings
-1. [Blumenstock question](https://wicked-problems.github.io/workshop/blumenstock) (Jan 30)
+1. [Blumenstock response](https://mrubin3.github.io/workshop/blumenstock) (Jan 30 revised)
 
-2. [Blumenstock response](https://mrubin3.github.io/workshop/blumenstock) (Jan 30 revised)
-
-3. [Jahan/Rosling response](https://mrubin3.github.io/workshop/jahan_rosling) (Feb 4)
+2. [Jahan/Rosling response](https://mrubin3.github.io/workshop/jahan_rosling) (Feb 4)
 ## Projects
 ## Assignments
