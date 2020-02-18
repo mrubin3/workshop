@@ -6,6 +6,6 @@ Below is my work from Evolving Solutions.
 
 2. [Jahan/Rosling response](https://mrubin3.github.io/workshop/jahan_rosling) (Feb 4)
 
-3. [Barder response](https://mrubin3.github.io/workshop/Barder)
+3. [Barder response](https://mrubin3.github.io/workshop/Barder) (Feb 18)
 ## Projects
 ## Assignments
