@@ -9,3 +9,4 @@ Below is my work from Evolving Solutions.
 3. [Barder response](https://mrubin3.github.io/workshop/Barder) (Feb 18)
 ## Projects
 ## Assignments
+1. [Assignment 1](https://mrubin3.github.io/workshop/assignment_1) (Feb 23)
