@@ -3,6 +3,8 @@ Matt Rubin
 
 February 13, 2020
 
+Wordcount: 2017
+
 ## Problem Statement
 
 My research intends to resolve the extent to which government error contributed to the spread of the Ebola virus in West Africa and apply the findings to future outbreaks on the same scale. Weak and decentralized states severely limit healthcare systems and throttle chances to contain outbreaks by regulating travel across international borders. As a result, other serious illnesses such as cholera and malaria have been prevalent in the region for decades. Furthermore, in instances of true national disaster like the Ebola epidemic, a weak state cannot effectively take the measures necessary to restore order, leading to harsh distrust of the government by the general public that can have serious long-term repercussions for a nation’s stability. I wish to establish a link between fragile states and disasters such as epidemics in order to find ways to maintain sustainable human development while ensuring public trust in government remains. 
