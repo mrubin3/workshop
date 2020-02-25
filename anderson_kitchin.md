@@ -1,0 +1,4 @@
+# Response to Anderson and Kitchin question
+
+I agree more with the argument of Kitchin that theory is not dead, yet we have entered a new fourth paradigm. Big data is drastically changing the way science operates in modern times. However, this does not mean we should completely forgo the scientific method that has lasted for centuries. As Kitchin illustrates, big data is not able to fully resolve the problems that face our society, since regardless of the detail we put into analyzing data, some elements of bias will always remain prevalent. In my opinion, we should embrace the new paradigm that big data has created. We should certainly take advantage of the new and improved technology, but it should be applied to work with our existing methods of scientific analysis rather than throwing the scientific method out the window.
+
