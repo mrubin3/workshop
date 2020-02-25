@@ -1,4 +1,5 @@
 # Assignment 1: Annotated Bibliography
+## How Public Distrust of Limited Government Worsened the Ebola Epidemic in West Africa
 Matt Rubin
 
 February 13, 2020
