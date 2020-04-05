@@ -42,7 +42,7 @@ Wordcount: 2118
 
 [8] Conceicao, P. et al. (2019). United Nations Human Development Report 2019. Retrieved from http://hdr.undp.org/sites/default/files/hdr_2019_overview_-_english.pdf
 
-[9] GHO | By country | Liberia - statistics summary (2002 - present). (2020, March 10). Retrieved from https://apps.who.int/gho/data/node.country.country-LBR?lang=en
+[9] GHO / By country / Liberia - statistics summary (2002 - present). (2020, March 10). Retrieved from https://apps.who.int/gho/data/node.country.country-LBR?lang=en
 
 [10] Dupuy, K., & Divjak, B. (2015, April). Ebola and corruption: Overcoming critical governance challenges in a crisis situation. Retrieved from https://www.cmi.no/publications/5522-ebola-and-corruption
 
