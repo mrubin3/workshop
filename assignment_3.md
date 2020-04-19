@@ -14,6 +14,8 @@ Wordcount: 1550
 ## Methods
    Mobile phone data collected and disseminated by telecommunications companies holds terrific promise for battling the next great pandemic. One post-Ebola study examined millions of phone records from Sierra Leonians during the outbreak using a combination of spatial and temporal data. To get a proper time frame, Peak et al. mapped the lockdown periods within Sierra Leone using WHO data, with the three-day national lockdown and the 21-day regional Operation Northern Push highlighted. They generalized signal locations to cell towers in order to safeguard the privacy of customers. Peak’s team began the actual data collection by measuring travel anomalies observed during the crisis for people traveling between the capital of Freetown and Magbema in the north of the country.
 
+![](Figure 1.png)
+
 Research expanded to observe travel between all chiefdoms using the lagpanel function in R. Three samples of time were chosen for study: one period during the lockdown, and two control periods. Next, an anomaly detection algorithm measured deviations in the daily trip count between two given locations. Restriction size is measured by the equation:
 
 **log Y(i,j),t = N(i,j),t + m (i,j),t + ε(i,j)**
