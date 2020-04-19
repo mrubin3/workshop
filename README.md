@@ -16,3 +16,5 @@ Below is my work from Evolving Solutions.
 1. [Assignment 1](https://mrubin3.github.io/workshop/assignment_1) (Feb 23)
 
 2. [Assignment 2](https://mrubin3.github.io/workshop/assignment_2) (Apr 5)
+
+3. [Assignment 3](https://mrubin3.github.io/workshop/assignment_3) (Apr 19)
