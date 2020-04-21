@@ -12,6 +12,7 @@ Below is my work from Evolving Solutions.
 
 5. [Nieves response](https://mrubin3.github.io/workshop/nieves) (Mar 31)
 ## Projects
+1. [City of God Essay](https://mrubin3.github.io/workshop/essay2) (Apr 21)
 ## Assignments
 1. [Assignment 1](https://mrubin3.github.io/workshop/assignment_1) (Feb 23)
 
